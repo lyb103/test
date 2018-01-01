@@ -4,10 +4,15 @@ void main()
 	add();
 	delay();
 	fabs(1,2);
+<<<<<<< HEAD
 
 	TI
 
 	dev1
 	
 
+=======
+	dev1
+	
+>>>>>>> test_dev1
 }
