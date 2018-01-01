@@ -1,0 +1,8 @@
+diff a/main.c b/main.c	(rejected hunks)
+@@ -1,4 +1,5 @@
+ void main()
+ {
+ 	printf("helo this is one test1");
++	add();
+ }
+\ No newline at end of file
